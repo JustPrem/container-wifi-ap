@@ -1,8 +1,14 @@
 # Container WiFi Access Point
 A wifi access point designed to run in Docker/Podman.
 
+If this works for you! And you'd like to buy me a £2 coffee (inflation I know) I have a Ko-fi page. (Button below)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P2LKHM4)
+
+
 ## Want to Contribute? Here's what you can do.
 - Please help with formatting this readme, I'm a programmer first :(
+- Come across any issues and manage to fix them? Add them to the bottom of this document. (Might make a seperate text file if needed)
 
 We also have a small to-do list:
 - [X] Run an Access Point over Podman.
