@@ -120,7 +120,7 @@ These can be added using the format `-e VAR=VALUE` to change certain settings in
 
 Check if the access point works and has internet at this point, if something is wrong then below are the things I did to fix stuff.
 
-**Problem:** Interface already in use
+**Problem:** Interface already in use and/or The container crashes with `handle_probe_req: send failed` continuosly. (This resets when the server is restarted)
 
 ```bash
 # Stops the network manager from using the wifi interface, replace wlp4s0 with your interface.
